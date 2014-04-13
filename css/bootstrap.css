@@ -5989,9 +5989,7 @@ td {
   text-align: center;
 }
 
-.roster {
-  font-size: 20pt;
-  font-weight: 100;
-  text-align: center;
-}
+.add_top_margin {
 
+  margin-top: 10px;
+}
